@@ -1,20 +1,2 @@
 # Site settings
-name: Aarav Khanna
-title: Aarav Khanna | Software Engineer
-description: Cornell CS Major and Incoming Software Engineer at Chicago Trading Company 
-url: https://aarav-khanna.github.io/
-baseurl: ''
-email: ak2246@cornell.edu
-social:
-  - title: email
-    url: mailto:ak2246@cornell.edu
-  - title: github
-    url: https://github.com/aarav-khanna
-  - title: linkedin
-    url: https://www.linkedin.com/in/aarav-khanna-b5100119b/
-
-# Build settings
-markdown: kramdown
-plugins_dir:
-  - jekyll-minifier
-  - jekyll-sitemap
+theme: jekyll-theme-cayman
