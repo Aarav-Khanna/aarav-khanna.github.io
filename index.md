@@ -1,5 +1,5 @@
 # Aarav Khanna
-📞 +1 (571) 509–9445 | 📧 ak2246@cornell.edu | [LinkedIn](https://www.linkedin.com/in/aarav-khanna-b5100119b/) | [GitHub](https://github.com/aarav-khanna)
+[Phone](+1 (571) 509–9445) | [Email](ak2246@cornell.edu) | [LinkedIn](https://www.linkedin.com/in/aarav-khanna-b5100119b/) | [GitHub](https://github.com/aarav-khanna)
 
 ---
 
