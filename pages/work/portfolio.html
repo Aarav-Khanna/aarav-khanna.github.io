@@ -1,0 +1,36 @@
+---
+layout: default_design
+title: Sketch & Design
+tags: portfolio
+permalink: /design/
+js:
+- js/util_buttons.js
+---
+
+<ul class="projects clearfix">
+  {% for post in site.portfolio %}
+  <li>
+    <div class="project" style="background-image: url(/images/portfolio/thumbs/{{ post.uid }}.jpg)">
+      <a class="cover" href="{{ post.url }}">
+        <div class="project-details">
+          <span>{{ post.title }}</span>
+          <span>{{ post.worktype }}</span>
+          <span>View project</span>
+        </div>
+      </a>
+      <div class="aspect-two-one"></div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
+<div class="circle-button">
+  <div class="top-circle" data-sr-id="80"
+    style="visibility: visible; transform: scale(1); opacity: 1; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s;">
+    <img src="{{ site.url }}/images/logos/top.png">
+  </div>
+</div>
+
+{% for js in page.js %}
+<script type="text/javascript" src="{{ js }}"></script>
+{% endfor %}
