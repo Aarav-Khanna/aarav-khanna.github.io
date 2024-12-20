@@ -4,7 +4,7 @@
     {% assign current = page.url | downcase | split: '/' %}
     <div class="flexbox-parent" style="display: flex; flex-wrap: wrap">
       <li class="about-anc" style="display: inline">
-        <a class="nav-underline home {% if page.url == '/' %}current{% endif %}" href="{{site.url}}">Home</a>
+        <a class="nav-underline home {% if page.url == '/' %}current{% endif %}" href="/">Home</a>
       </li>
       <li class="about-anc" style="display: inline">
         <a class="nav-underline about {% if page.url == '/about/' %}current{% endif %}" href="/about">About</a>
