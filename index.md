@@ -25,9 +25,7 @@ tags: home
 }
 </style>
 
-### I'm a software engineer with a focus on trading infrastructure & data platform engineering.
-
-### Currently, I'm a Cornell CS Major and an Incoming Software Engineer at [Chicago Trading Company](https://www.chicagotrading.com/).
+### I'm a Cornell CS Major and developer passionate about building things! 
 
 <br>
 I can usually be found in a programming IDE or reading up on the latest sports or finance news.
