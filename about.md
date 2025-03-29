@@ -12,7 +12,7 @@ I was born and raised in Northern Virginia, where an early passion for STEM guid
 
 ### What I do now
 
-I'm currently a Cornell CS Major and an Incoming Software Engineer at Chicago Trading Company. At Cornell, my coursework and research have enabled me to build a strong foundation in computer science theory while applying it to practical, real-world scenarios—ranging from creating intelligent web applications to designing scalable data platforms.
+I'm currently a Cornell CS Major and open-source developer. At Cornell, my coursework and research have enabled me to build a strong foundation in computer science theory while applying it to practical, real-world scenarios—ranging from creating intelligent web applications to designing scalable data platforms.
 
 ### Skills & Interests
 
@@ -27,4 +27,4 @@ My technical interests lie at the intersection of software engineering, trading 
 
 While I’m often immersed in code and technical design, I also enjoy following the latest trends in financial markets, reading up on developments in machine learning research, and staying engaged with NFL news (I’m a big fan of the Washington Commanders). Balancing professional growth with personal interests helps keep my perspectives fresh and well-rounded.
 
-I’m excited to continue learning, tackling complex engineering problems, and innovating at the intersection of technology and finance as I start my journey as a Software Engineer at Chicago Trading Company.
+I’m excited to continue learning, tackling complex engineering problems, and building cool new tools for people to use!
